@@ -3,7 +3,7 @@
 I am a passionate enthusiast for programming, with a lot of will and determination to learn how great technologies for web development, create solid knowledge bases and put into practice finding solutions for people through programming.
 
 - 🚀 Front-End Web Developer
-- 🧠 I’m currently learning and creating projects in JavaScript, ReactJS and Node.js
+- 🧠 I’m currently learning and creating projects in JavaScript, ReactJS, Node.js and Next.js
 
 Reach me out  👇
 
