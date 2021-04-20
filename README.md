@@ -5,9 +5,7 @@ I am a passionate enthusiast for programming, with a lot of will and determinati
 - 🚀 Front-End Web Developer
 - 🧠 I’m currently learning and creating projects in JavaScript, ReactJS, Node.js and Next.js
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmyb&count_private=true&show_icons=true&theme=grayblack" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmyb&theme=grayblack&layout=compact" width="400"/>
-</div>
+[![Rafael Yamada github stats](https://github-readme-stats.vercel.app/api?username=rafaelmyb&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmyb&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 Reach me out  👇
 
