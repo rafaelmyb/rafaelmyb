@@ -6,7 +6,7 @@ I am a passionate enthusiast for programming, with a lot of will and determinati
 - 🧠 I’m currently learning and creating projects in JavaScript, ReactJS, Node.js and Next.js
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmyb&count_private=true&show_icons=true&theme=gray" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmyb&theme=gray&layout=compact" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmyb&count_private=true&show_icons=true&theme=grayblack" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmyb&theme=grayblack&layout=compact" width="400"/>
 </div>
 
 Reach me out  👇
